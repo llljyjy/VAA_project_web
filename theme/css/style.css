@@ -130,7 +130,7 @@ body {
 }
 
 ::selection {
-  background: #542cb7;
+  background: #E50001;
   color: #fff;
 }
 
@@ -396,7 +396,7 @@ textarea.form-control {
   transition: 0.3s ease;
 }
 .navigation.nav-bg {
-  background-color: #41228e;
+  background-color: #FFCC02;
   padding: 15px 100px;
 }
 @media (max-width: 991px) {

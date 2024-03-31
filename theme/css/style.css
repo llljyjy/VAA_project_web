@@ -100,23 +100,23 @@ h6, .h6 {
   color: #fff;
 }
 .btn-primary:active {
-  background: #542cb7 !important;
+  background: #FFCC02 !important;
 }
 .btn-primary:hover {
-  background: #542cb7;
+  background: black;
 }
 .btn-primary.focus, .btn-primary.active {
-  background: #542cb7 !important;
+  background: black !important;
   box-shadow: none !important;
 }
 
 .btn-transparent {
   background: transparent;
-  color: #41228e;
+  color: #FFCC02;
   font-weight: bold;
 }
 .btn-transparent:active, .btn-transparent:hover {
-  color: #41228e;
+  color: #E50001;
 }
 
 body {
@@ -178,11 +178,11 @@ select:focus {
 }
 
 a.text-dark:hover {
-  color: #41228e !important;
+  color: #E50001 !important;
 }
 
 a:hover {
-  color: #41228e;
+  color: #E50001;
 }
 
 .slick-slide {
@@ -236,7 +236,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #41228e !important;
+  color: #E50001 !important;
 }
 
 .text-color {
@@ -369,7 +369,7 @@ a:hover {
   height: 60px;
 }
 .form-control:focus {
-  border-color: #41228e;
+  border-color: #E50001;
   outline: 0;
   box-shadow: none !important;
 }
@@ -407,7 +407,7 @@ textarea.form-control {
 @media (max-width: 991px) {
   .navigation {
     padding: 20px;
-    background: #41228e;
+    background: #FFCC02;
   }
 }
 
@@ -561,7 +561,7 @@ textarea.form-control {
   transition: 0.3s ease;
 }
 .hover-bg-primary:hover {
-  background: #41228e;
+  background: #FFCC02;
 }
 .hover-bg-primary:hover * {
   color: #fff;
@@ -569,7 +569,7 @@ textarea.form-control {
 
 .active-bg-primary {
   transition: 0.3s ease;
-  background: #41228e;
+  background: #E50001;
 }
 .active-bg-primary * {
   color: #fff;
@@ -624,7 +624,7 @@ textarea.form-control {
 /* /portfolio */
 /* testimonial */
 .testimonial-content strong {
-  color: #2bfdff;
+  color: #E50001;
   font-weight: normal;
 }
 
@@ -703,7 +703,7 @@ blockquote {
   display: inline-block;
   padding: 20px 25px;
   background: #eaeaea;
-  border-left: 3px solid #41228e;
+  border-left: 3px solid #E50001;
   font-style: italic;
   font-size: 22px;
   line-height: 1.7;

@@ -112,11 +112,11 @@ h6, .h6 {
 
 .btn-transparent {
   background: transparent;
-  color: #FFCC02;
+  color: #E50001;
   font-weight: bold;
 }
 .btn-transparent:active, .btn-transparent:hover {
-  color: #E50001;
+  color: #FFCC02;
 }
 
 body {
